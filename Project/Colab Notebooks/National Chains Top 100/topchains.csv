@@ -1,0 +1,250 @@
+Category,Rank,Chain
+Restaurants,1,McDonald's
+Restaurants,2,Starbucks
+Restaurants,3,Subway
+Restaurants,4,Pizza Hut
+Restaurants,5,Domino's Pizza
+Restaurants,6,Taco Bell
+Restaurants,7,Dunkin'
+Restaurants,8,Burger King
+Restaurants,9,KFC
+Restaurants,10,Wendy's
+Restaurants,11,Applebee's
+Restaurants,12,Olive Garden
+Restaurants,13,Chili's
+Restaurants,14,Outback Steakhouse
+Restaurants,15,IHOP
+Restaurants,16,Red Lobster
+Restaurants,17,Cheesecake Factory
+Restaurants,18,TGI Fridays
+Restaurants,19,Cracker Barrel
+Restaurants,20,Panera Bread
+Restaurants,21,Chipotle Mexican Grill
+Restaurants,22,Texas Roadhouse
+Restaurants,23,Buffalo Wild Wings
+Restaurants,24,Denny's
+Restaurants,25,Sonic Drive-In
+Bars,1,Applebee's
+Bars,2,TGI Fridays
+Bars,3,Buffalo Wild Wings
+Bars,4,Chili's Grill & Bar
+Bars,5,Olive Garden
+Bars,6,Outback Steakhouse
+Bars,7,Red Robin Gourmet Burgers and Brews
+Bars,8,Dave & Buster's
+Bars,9,Hooters
+Bars,10,BJ's Restaurant & Brewhouse
+Bars,11,Yard House
+Bars,12,The Cheesecake Factory
+Bars,13,Hard Rock Cafe
+Bars,14,Carrabba's Italian Grill
+Bars,15,Texas Roadhouse
+Bars,16,LongHorn Steakhouse
+Bars,17,Ruby Tuesday
+Bars,18,Red Lobster
+Bars,19,P.F. Chang's
+Bars,20,Cheesecake Factory
+Bars,21,Yard House
+Bars,22,BJ's Restaurant & Brewhouse
+Bars,23,Hooters
+Bars,24,Hard Rock Cafe
+Cafes,1,Starbucks
+Cafes,2,Dunkin'
+Cafes,3,Tim Hortons
+Cafes,4,Peet's Coffee
+Cafes,5,Caribou Coffee
+Cafes,6,The Coffee Bean & Tea Leaf
+Cafes,7,Panera Bread
+Cafes,8,Au Bon Pain
+Cafes,9,Second Cup
+Cafes,10,Dutch Bros. Coffee
+Cafes,11,Tully's Coffee
+Cafes,12,Gloria Jean's Coffees
+Cafes,13,Coffee Culture
+Cafes,14,85°C Bakery Cafe
+Cafes,15,It's A Grind Coffee House
+Cafes,16,Philz Coffee
+Cafes,17,Blue Bottle Coffee
+Cafes,18,La Colombe Coffee Roasters
+Cafes,19,Stumptown Coffee Roasters
+Cafes,20,Gregorys Coffee
+Cafes,21,Pret A Manger
+Cafes,22,Caffè Nero
+Cafes,23,Joe & The Juice
+Cafes,24,Peet's Coffee
+Cafes,25,J.CO Donuts & Coffee
+Convenience Stores,1,7-Eleven
+Convenience Stores,2,Circle K
+Convenience Stores,3,Wawa
+Convenience Stores,4,Sheetz
+Convenience Stores,5,Speedway
+Convenience Stores,6,Casey's General Store
+Convenience Stores,7,QuikTrip
+Convenience Stores,8,Cumberland Farms
+Convenience Stores,9,ampm
+Convenience Stores,10,Holiday Stationstores
+Convenience Stores,11,Maverik
+Convenience Stores,12,RaceTrac
+Convenience Stores,13,Kwik Trip
+Convenience Stores,14,ExtraMile
+Convenience Stores,15,Allsup's
+Convenience Stores,16,Royal Farms
+Convenience Stores,17,Stewart's Shops
+Convenience Stores,18,Thorntons
+Convenience Stores,19,Rutter's
+Convenience Stores,20,Love's Travel Stops
+Convenience Stores,21,Pilot Flying J
+Convenience Stores,22,Stripes
+Convenience Stores,23,TravelCenters of America
+Convenience Stores,24,MAPCO
+Convenience Stores,25,Kum & Go
+Fast Food,1,McDonald's
+Fast Food,2,Subway
+Fast Food,3,Taco Bell
+Fast Food,4,Burger King
+Fast Food,5,KFC
+Fast Food,6,Wendy's
+Fast Food,7,Domino's Pizza
+Fast Food,8,Pizza Hut
+Fast Food,9,Dunkin'
+Fast Food,10,Starbucks
+Fast Food,11,Chipotle Mexican Grill
+Fast Food,12,Sonic Drive-In
+Fast Food,13,Arby's
+Fast Food,14,Popeyes Louisiana Kitchen
+Fast Food,15,Little Caesars
+Fast Food,16,Jimmy John's
+Fast Food,17,Five Guys
+Fast Food,18,In-N-Out Burger
+Fast Food,19,White Castle
+Fast Food,20,Jack in the Box
+Fast Food,21,Carl's Jr.
+Fast Food,22,Hardee's
+Fast Food,23,Panda Express
+Fast Food,24,Chick-fil-A
+Fast Food,25,Dairy Queen
+Bookstores,1,Barnes & Noble
+Bookstores,2,Books-A-Million
+Bookstores,3,Powell's Books
+Bookstores,4,Half Price Books
+Bookstores,5,Strand Bookstore
+Bookstores,6,Tattered Cover Book Store
+Bookstores,7,Book People
+Bookstores,8,Politics and Prose
+Bookstores,9,Joseph-Beth Booksellers
+Bookstores,10,R.J. Julia Booksellers
+Bookstores,11,Changing Hands Bookstore
+Bookstores,12,The Last Bookstore
+Bookstores,13,McNally Jackson Books
+Bookstores,14,Elliott Bay Book Company
+Bookstores,15,Skylight Books
+Bookstores,16,Kramerbooks & Afterwords Café
+Bookstores,17,The Strand Bookstore
+Bookstores,18,Book Soup
+Bookstores,19,Magers & Quinn Booksellers
+Bookstores,20,City Lights Booksellers & Publishers
+Bookstores,21,Green Apple Books
+Bookstores,22,Parnassus Books
+Bookstores,23,Vroman's Bookstore
+Bookstores,24,Book Revue
+Bookstores,25,Porter Square Books
+Shopping,1,Walmart
+Shopping,2,Amazon
+Shopping,3,Target
+Shopping,4,Costco
+Shopping,5,Kroger
+Shopping,6,The Home Depot
+Shopping,7,Lowe's
+Shopping,8,Best Buy
+Shopping,9,Macy's
+Shopping,10,Kohl's
+Shopping,11,Nordstrom
+Shopping,12,JCPenney
+Shopping,13,Bed Bath & Beyond
+Shopping,14,TJ Maxx
+Shopping,15,Ross Dress for Less
+Shopping,16,Marshalls
+Shopping,17,Dollar General
+Shopping,18,Dollar Tree
+Shopping,19,Family Dollar
+Shopping,20,Walgreens
+Shopping,21,CVS
+Shopping,22,Rite Aid
+Shopping,23,H&M
+Shopping,24,Forever 21
+Shopping,25,Zara
+Grocery,1,Walmart
+Grocery,2,Kroger
+Grocery,3,Costco
+Grocery,4,Target
+Grocery,5,Publix
+Grocery,6,Safeway
+Grocery,7,Albertsons
+Grocery,8,H-E-B
+Grocery,9,Stop & Shop
+Grocery,10,Whole Foods Market
+Grocery,11,Trader Joe's
+Grocery,12,Meijer
+Grocery,13,Aldi
+Grocery,14,Wegmans
+Grocery,15,WinCo Foods
+Grocery,16,Hy-Vee
+Grocery,17,Giant Eagle
+Grocery,18,ShopRite
+Grocery,19,Harris Teeter
+Grocery,20,Food Lion
+Grocery,21,Jewel-Osco
+Grocery,22,Sprouts Farmers Market
+Grocery,23,Piggly Wiggly
+Grocery,24,Bashas'
+Grocery,25,Stater Bros. Markets
+Fitness,1,Planet Fitness
+Fitness,2,Anytime Fitness
+Fitness,3,24 Hour Fitness
+Fitness,4,Gold's Gym
+Fitness,5,LA Fitness
+Fitness,6,Snap Fitness
+Fitness,7,Orangetheory Fitness
+Fitness,8,Equinox
+Fitness,9,Crunch Fitness
+Fitness,10,SoulCycle
+Fitness,11,Retro Fitness
+Fitness,12,The Bar Method
+Fitness,13,CrossFit
+Fitness,14,Pure Barre
+Fitness,15,CorePower Yoga
+Fitness,16,YMCA
+Fitness,17,Life Time Fitness
+Fitness,18,Blink Fitness
+Fitness,19,UFC Gym
+Fitness,20,The Little Gym
+Fitness,21,CycleBar
+Fitness,22,F45 Training
+Fitness,23,My Gym
+Fitness,24,Club Pilates
+Fitness,25,Jazzercise
+Health,1,CVS Health
+Health,2,Walgreens Boots Alliance
+Health,3,Rite Aid
+Health,4,Walmart Health
+Health,5,HCA Healthcare
+Health,6,Tenet Healthcare
+Health,7,Community Health Systems
+Health,8,Ascension Health
+Health,9,Catholic Health Initiatives
+Health,10,Kaiser Permanente
+Health,11,Mayo Clinic
+Health,12,Cleveland Clinic
+Health,13,Johns Hopkins Medicine
+Health,14,Partners HealthCare
+Health,15,Mount Sinai Health System
+Health,16,Memorial Hermann Health System
+Health,17,NewYork-Presbyterian Hospital
+Health,18,Advocate Aurora Health
+Health,19,Intermountain Healthcare
+Health,20,CommonSpirit Health
+Health,21,Northwell Health
+Health,22,University of Pittsburgh Medical Center
+Health,23,Cedars-Sinai Medical Center
+Health,24,Stanford Health Care
+Health,25,Banner Health
